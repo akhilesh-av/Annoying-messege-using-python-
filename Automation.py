@@ -8,6 +8,8 @@ import time
 
 print("This code will run when you click Enter Button in keyboard")  # giving intication to user
 print("This code will run when you click Enter Button in keyboard")  # giving intication to user
+print('hellooooooooo')
+print('hellooooooooo')
 print("run in 5 Sec ")   # giving intication to user
 time.sleep(5)
 
@@ -15,4 +17,4 @@ time.sleep(5)
 for i in range(100):            #code will run 100 time , means on click of "Enter" it send 100 time . 
     pg.write("What ever you want to write for 100 time ")
     time.sleep(0.5)
-    pg.press("Enter")    #OnClick of "Enter" button message send 100 time on where you click  
+    pg.press("Enter")    #OnClick of "Enter" button message send 100 time on where you click   

@@ -6,7 +6,7 @@ This code will work when you run the code on an ide then where you click "Enter"
 import pyautogui as pg
 import time
 
-
+print("This code will run when you click on Enter Button in keyboard")  # giving intication to user
 print("run in 5 Sec ")   # giving intication to user
 time.sleep(5)
 
